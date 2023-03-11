@@ -1,1 +1,1 @@
-# Course-Assignment---GameHub
+# Course-Assignment-GameHub
